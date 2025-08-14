@@ -10,16 +10,14 @@
 // constante - não muda com o tempo
 // const idade3 = 20
 
-let nome = "Ana"
-let idade = 23
-let altura = 1.68
+let nome = "Ana";
+let idade = 23;
+let altura = 1.68;
 
-console.log(typeof nome, typeof idade, typeof altura)
+console.log(typeof nome, typeof idade, typeof altura);
 
-let estaChovendo = false
+let estaChovendo = false;
+console.log(typeof estaChovendo);
 
-console.log(typeof estaChovendo)
-
-let cidade
-
-console.log(cidade)
+let cidade;
+console.log(cidade);
