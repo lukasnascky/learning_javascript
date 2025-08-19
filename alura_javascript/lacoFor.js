@@ -21,4 +21,3 @@ const palavra = "alohomora"
 for (let contador = 0; contador < palavra.length; contador++) {
     console.log(palavra[contador]);
 }
-
